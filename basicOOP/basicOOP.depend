@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1569878759 source:c:\users\pwn-404\desktop\basicoop\main.cpp
+	"basic.h"
+
+1569876776 source:c:\users\pwn-404\desktop\basicoop\basic.cpp
+	"basic.h"
+
+1569704259 c:\users\pwn-404\desktop\basicoop\basic.h
+	<cstdlib>
+	<sstream>
+	<iostream>
+
