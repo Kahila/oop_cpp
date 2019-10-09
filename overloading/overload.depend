@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1570663794 source:c:\users\pwn-404\music\overload\main.cpp
+	"overload.h"
+
+1570664661 source:c:\users\pwn-404\music\overload\overload.cpp
+	"overload.h"
+
+1570664437 c:\users\pwn-404\music\overload\overload.h
+	<string>
+	<cstdlib>
+	<iostream>
+
